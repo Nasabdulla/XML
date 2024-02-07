@@ -1,0 +1,32 @@
+<movies>
+    <movie number="1" type="animated spy comedy">
+        <title>car 2</title>
+        <director>John Lasseter</director>
+        <year>2011</year>
+        <rating>7</rating>
+    </movie>
+    <movie number="2" type="sports comedy">
+        <title>thunderstruck</title>
+        <director>John Whitesell</director>
+        <year>12012</year>
+        <rating>10</rating>
+    </movie>
+    <movie number="3" type="Science Fiction">
+        <title>Ready Player One</title>
+        <director>Steven spielberg</director>
+        <year>2018</year>
+        <rating>7</rating>
+    </movie>
+    <movie number="4" type="Romance/musical">
+        <title>Forever My Girl</title>
+        <director>bethany ashton wolf</director>
+        <year>2018</year>
+        <rating>6</rating>
+    </movie>
+    <movie number="5" type="action">
+        <title>Skyscraper</title>
+        <director>Rawson marshall</director>
+        <year>2018</year>
+        <rating>10</rating>
+    </movie>
+</movies>
